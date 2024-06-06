@@ -1,0 +1,106 @@
+/* Reset styles */
+* {
+    border: 0;
+    box-sizing: content-box;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    vertical-align: top;
+  }
+  
+  /* Facture container */
+  .factureContainer {
+    font-size: 40px;
+  }
+  
+  /* Facture header */
+  .factureHeader {
+    padding: 50px;
+  }
+  
+  .factureHeader h1 {
+    font: bold 100% sans-serif;
+    letter-spacing: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+    background: black;
+    border-radius: 0.25em;
+    color: white;
+    margin: 0 0 1em;
+    padding: 0.5em 0;
+  }
+  
+  .factureAddress {
+    float: left;
+    font-size: 75%;
+    font-style: normal;
+    line-height: 1.25;
+    margin: 0 1em 1em 0;
+  }
+  
+  /* Facture body */
+  .factureBody {
+    padding: 50px;
+  }
+  
+  /* Facture article */
+  .factureArticle {
+    margin-bottom: 3em;
+  }
+  
+  .factureDetailAddress {
+    float: left;
+    font-size: 125%;
+    font-weight: bold;
+  }
+  
+  /* Facture tables */
+  .factureFirstTable {
+    float: right;
+    width: 36%;
+    height: 50%;
+  }
+  
+  .factureSecondTable {
+    float: right;
+    width: 100%;
+  }
+  
+  .factureThirdTable {
+    float: right;
+    width: 36%;
+  }
+  
+  .factureFirstTable th {
+    width: 40%;
+  }
+  
+  .factureFirstTable td {
+    width: 60%;
+  }
+  
+  /* Facture aside */
+  .factureAside {
+    margin-bottom: 3em;
+  }
+  
+  #notes {
+    border: none;
+    border-width: 0 0 1px;
+    margin: 0 0 1em;
+    border-color: #999;
+    border-bottom-style: solid;
+    border-bottom-width: 10%;
+    font: bold 100% sans-serif;
+    letter-spacing: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
