@@ -1,4 +1,4 @@
-![Capture d'écran 2024-06-02 055735](https://github.com/user-attachments/assets/47a7416a-b0ef-42ef-ba5c-0b6e95307607)
+
 ![Capture d'écran 2024-05-31 202346](https://github.com/user-attachments/assets/454a4ad4-26fb-44b1-8b14-2d9132aa18e9)
 ![Capture d'écran 2024-06-02 145854](https://github.com/user-attachments/assets/e915db58-8b15-4969-a3d6-630ae519749d)
 ![Capture d'écran 2024-06-02 150031](https://github.com/user-attachments/assets/5408cbae-666f-4342-a840-f881db6c7042)
